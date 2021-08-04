@@ -63,7 +63,9 @@ versions, and the Tomcat version if you're using Tomcat. Select Java 8 or 11. Re
 
 ![Use the selector to change your Java version](media/app-service-java-version-selector.png)
 
-You can use the `JAVA_TOOLS` app setting if you need to specify any new runtime options, and they'll be applied when your application starts. For more information, see [Configure a Java app for Azure App Service](/azure/app-service/configure-language-java?pivots=platform-linux).
+You can use the `JAVA_TOOLS` app setting if you need to specify any new runtime options, and they'll be applied when your application starts. For more information, see [Configure a Java app for Azure App Service](/azure/app-service/configure-language-java?pivots=platform-linux). 
+
+Learn more about [support policies for runtimes on App Service](https://docs.microsoft.com/en-us/azure/app-service/overview#built-in-languages-and-frameworks).
 
 ## Next steps
 
